@@ -4,7 +4,7 @@ tags: InterMine, community-call
 
 # InterMine community call 2020-02-06
 
-**Time/date:** Thursday 6 Feb 2020, 17:00 UK time
+**Time/date:** Thursday 6 Feb 2020, 17:00 UK time  
 **Other timezones:** https://arewemeetingyet.com/London/2020-02-06/17:00
 
 
