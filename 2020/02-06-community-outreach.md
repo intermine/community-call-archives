@@ -81,7 +81,7 @@ Icebreaker question: It's been a long day, so you're looking for some indulgent 
 - Ping yo@intermine.org to discuss project ideas or joining. 
 
 ### Next calls
-- Next techie call - 5 March 2020:
+- Next techie call - ~5 March 2020:~ (EDIT: This will be 12 March)
     - We'll discuss the most recent InterMine release 
     - BlueGenes data vis tool auto-install demo! (Thanks Kevin!)
     - Open discussion around federated result sets.
